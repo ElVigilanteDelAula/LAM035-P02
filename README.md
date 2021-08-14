@@ -1,1 +1,1 @@
-# LAM035-P02
+Practica 2
